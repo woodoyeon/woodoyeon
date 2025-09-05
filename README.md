@@ -82,7 +82,7 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 
 ## 📫 Contact  
 
-- 📧 Email: woodoyeon@example.com  
+- 📧 Email: dydy1212qwqw@naver.com  
 - 🌐 Blog: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)  
 - 💼 GitHub: [github.com/woodoyeon](https://github.com/woodoyeon)  
 
