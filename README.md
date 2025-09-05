@@ -1,8 +1,8 @@
 # 👋 안녕하세요, 우도연입니다  
 
-AI · 자동화에 강점을 가진 **PM형 풀스택 개발자**입니다.  
-ERP/쇼핑몰 운영 경험을 기반으로, **React/TypeScript 프론트엔드, Spring Boot/FastAPI 백엔드, Supabase/AWS 인프라**를 직접 다루며  
-**API 연동과 자동화 시스템 구축**을 통해 문제를 정의하고 끝까지 해결하는 것을 목표로 하고 있습니다.  
+**React/TypeScript · Spring Boot · Python 기반 풀스택 개발자**입니다.  
+ERP·이커머스 자동화 실무 경험을 토대로 **AI·API 기반 자동화 시스템**을 직접 설계·구현하고 있습니다.  
+기획과 운영 경험을 살려, 문제 정의부터 개발·배포까지 책임지는 것을 강점으로 합니다.  
 
 ---
 
@@ -12,7 +12,7 @@ ERP/쇼핑몰 운영 경험을 기반으로, **React/TypeScript 프론트엔드,
 - React, TypeScript, Next.js, TailwindCSS, React Native, Flutter  
 
 **Backend**  
-- Spring Boot, Express.js, Nest.js, FastAPI  
+- Spring Boot, Express.js, Nest.js (TypeScript), FastAPI  
 
 **DB / Infra**  
 - MySQL, PostgreSQL, Oracle, Supabase, AWS, Docker  
@@ -28,34 +28,28 @@ ERP/쇼핑몰 운영 경험을 기반으로, **React/TypeScript 프론트엔드,
 ## 📑 주요 프로젝트  
 
 ### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI)  
-AI 기반 쇼핑몰 상세페이지 자동화 플랫폼  
-- **기술**: React, TypeScript, Express.js, Supabase, GPT-4, Runway API  
-- **성과**: 상세페이지 제작 시간 90% 단축, 이미지·영상·정책·리뷰 자동화  
+AI 기반 쇼핑몰 상세페이지 자동화 SaaS  
+- **성과**: 상세페이지 제작 시간 90% 단축 (이미지·영상·정책·리뷰 자동화)  
 - **기타**: 외부 창업경진대회 본선 진출 (발표자료 제출, 시연영상 2025.09 업로드 예정)
 
 ---
 
 ### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2)  
 전국 부동산 매물 수집·분석 자동화 시스템  
-- **기술**: Python, Selenium, BeautifulSoup, Pandas, scikit-learn, GPT, Streamlit  
 - **성과**: 매물 수집·분석 시간 90% 단축, GPT 기반 자동 리포트 제공  
 
 ---
 
 ### 👕 [AiWearFit.com](https://github.com/woodoyeon/AiwearFit.com)  
 AI 기반 의상 합성·상세페이지 자동화 플랫폼  
-- **기술**: React, TypeScript, Express.js, Supabase, GPT-4  
-- **성과**: 다각도 합성 이미지, GPT 설명문·가격·정책 자동화, 상담 챗봇 감정 분석 도입  
+- **성과**: 다각도 합성 이미지 + 정책/가격 자동화, 상담 챗봇 감정 분석 도입  
 
 ---
 
 ## 🏆 수상 경력  
 
-- 2024 한국실천공학교육학회 **아이디어 경진대회 동상**  
-  → 작품: *ZipPick.AI* (부동산 데이터 기반 AI 분석/추천)  
-
-- 2024 한국실천공학교육학회 **종합학술발표대회 우수논문상**  
-  → 논문: *도로 환경별 AI 맞춤형 알림·위험예측 시스템*  
+- 2024 한국실천공학교육학회 **아이디어 경진대회 동상** (*ZipPick.AI*)  
+- 2024 한국실천공학교육학회 **종합학술발표대회 우수논문상** (*AI 위험예측 시스템*)  
 
 ---
 
@@ -85,5 +79,3 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 - 📧 Email: dydy1212qwqw@naver.com  
 - 🌐 Blog: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)  
 - 💼 GitHub: [github.com/woodoyeon](https://github.com/woodoyeon)  
-
----
