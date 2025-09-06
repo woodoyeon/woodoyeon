@@ -1,3 +1,13 @@
+# [![header](https://raw.githubusercontent.com/woodoyeon/woodoyeon/main/assets/banner.png)](https://github.com/woodoyeon)
+<p align="center">
+<a href="mailto:dydy1212qwqw@naver.com"><img height="30" src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/woodoyeon"><img height="30" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://upwardtrend.tistory.com/"><img height="30" src="https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
 # 👋 안녕하세요, 우도연입니다  
 
 React/TypeScript · Spring Boot · Python 기반 **풀스택 개발자**입니다.  
@@ -10,24 +20,22 @@ ERP·이커머스 자동화 실무 경험을 토대로 **AI·API 연동 자동�
 ## 🛠 기술 스택  
 
 **Frontend**  
-- React, TypeScript, Next.js, TailwindCSS  
-- React Native, Flutter  
+`React` · `TypeScript` · `Next.js` · `TailwindCSS` · `React Native` · `Flutter`  
 
 **Backend**  
-- Spring Boot, Express.js, Nest.js (TypeScript), FastAPI  
+`Spring Boot` · `Express.js` · `Nest.js` · `FastAPI`  
 
 **DB / Infra**  
-- MySQL, PostgreSQL, Oracle  
-- Supabase, AWS, Docker  
+`MySQL` · `PostgreSQL` · `Oracle` · `Supabase` · `AWS` · `Docker`  
 
 **AI · ML · Vision**  
-- OpenAI GPT, Runway API, LangChain  
-- scikit-learn, TensorFlow/Keras, PyTorch  
-- YOLOv8 (객체 탐지), OCR (문자 인식)  
+`OpenAI GPT` · `Runway API` · `LangChain`  
+`scikit-learn` · `TensorFlow` · `PyTorch`  
+`YOLOv8` (객체 탐지) · `OCR` (문자 인식)  
 
 **Collaboration / DevOps**  
-- GitHub Actions, Jira, Notion, Slack  
-- Swagger, Postman  
+`GitHub Actions` · `Jira` · `Notion` · `Slack`  
+`Swagger` · `Postman`  
 
 ---
 
@@ -84,9 +92,9 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 
 ## 📫 Contact  
 
-- 📧 Email: dydy1212qwqw@naver.com  
-- 🌐 Blog: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)  
-- 💼 GitHub: [github.com/woodoyeon](https://github.com/woodoyeon)  
+- 📧 **Email**: dydy1212qwqw@naver.com  
+- 🌐 **Blog**: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)  
+- 💼 **GitHub**: [github.com/woodoyeon](https://github.com/woodoyeon)  
 
 ---
 
