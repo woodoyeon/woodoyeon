@@ -94,7 +94,8 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 ## 📫 Contact  
 
 - 📧 **Email**: dydy1212qwqw@naver.com  
-- 🌐 **Blog**: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)  
+- 🌐 **Blog**: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)
+- 🎥 **YouTube**: [우코딩AI](https://www.youtube.com/@%EC%9A%B0%EC%BD%94%EB%94%A9AI)
 - 💼 **GitHub**: [github.com/woodoyeon](https://github.com/woodoyeon)  
 
 ---
