@@ -21,27 +21,6 @@ ERP·이커머스 자동화 실무 경험을 토대로 **AI·API 연동 자동�
 
 ---
 
-## 🛠 기술 스택  
-
-**Frontend**  
-`React` · `TypeScript` · `Next.js` · `TailwindCSS` · `React Native` · `Flutter`  
-
-**Backend**  
-`Spring Boot` · `Express.js` · `Nest.js` · `FastAPI`  
-
-**DB / Infra**  
-`MySQL` · `PostgreSQL` · `Oracle` · `Supabase` · `AWS` · `Docker`  
-
-**AI · ML · Vision**  
-`OpenAI GPT` · `Runway API` · `LangChain`  
-`scikit-learn` · `TensorFlow` · `PyTorch`  
-`YOLOv8` (객체 탐지) · `OCR` (문자 인식)  
-
-**Collaboration / DevOps**  
-`GitHub Actions` · `Jira` · `Notion` · `Slack`  
-`Swagger` · `Postman`  
-
----
 
 ## 📑 주요 프로젝트  
 
@@ -63,6 +42,28 @@ AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 AI 기반 의상 합성·상세페이지 자동화 플랫폼  
 - **성과**: 다각도 합성 이미지 + 설명문·가격·정책 자동화  
 - **특징**: 상담 챗봇 감정 분석 도입 → 고객 응대 효율화  
+
+---
+
+## 🛠 기술 스택  
+
+**Frontend**  
+`React` · `TypeScript` · `Next.js` · `TailwindCSS` · `React Native` · `Flutter`  
+
+**Backend**  
+`Spring Boot` · `Express.js` · `Nest.js` · `FastAPI`  
+
+**DB / Infra**  
+`MySQL` · `PostgreSQL` · `Oracle` · `Supabase` · `AWS` · `Docker`  
+
+**AI · ML · Vision**  
+`OpenAI GPT` · `Runway API` · `LangChain`  
+`scikit-learn` · `TensorFlow` · `PyTorch`  
+`YOLOv8` (객체 탐지) · `OCR` (문자 인식)  
+
+**Collaboration / DevOps**  
+`GitHub Actions` · `Jira` · `Notion` · `Slack`  
+`Swagger` · `Postman`  
 
 ---
 
