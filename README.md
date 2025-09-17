@@ -1,29 +1,20 @@
-방법1
-## 🎥 Demo (Inline Preview)
-
-<video src="./Analytics.mp4" controls muted playsinline width="720">
-  Your browser does not support the video tag.
-</video>
-
 
 ---
 
-## 🎥 Demo (Open in New Tab)
+## 🎥 시연 동영상 미리보기
 
-[![Watch the demo](./apps/web/public/cover.png)](https://github.com/woodoyeon/AnalyticsDashboard/releases/latest/download/Analytics.mp4)
+<div align="center" style="margin: 20px 0;">
+  <a href="./Analytics.mp4" target="_blank" 
+     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#E50914;color:#fff;
+            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
+    🎬 ▶ 시연 동영상 보기
+  </a>
+  <p align="center">
+    <sub>▶ 버튼을 클릭하면 <code>Analytics.mp4</code> 파일이 새 탭에서 열리며,  
+    브라우저 설정에 따라 다운로드되거나 기본 플레이어에서 재생됩니다.</sub>
+  </p>
+</div>
 
-
-
----
-
-# [![header](https://raw.githubusercontent.com/woodoyeon/woodoyeon/main/assets/Banner.png)](https://github.com/woodoyeon)
-
-<p align="center">
-<a href="mailto:dydy1212qwqw@naver.com"><img height="30" src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/woodoyeon"><img height="30" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://upwardtrend.tistory.com/"><img height="30" src="https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white" /></a>&nbsp;
-<a href="https://www.youtube.com/@우코딩AI"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-</p>
 
 ---
 
