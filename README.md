@@ -34,7 +34,7 @@ ERP·SQL 데이터 관리 경험에서 출발해, JD인터내셔널에서 자사
 
 ---
 
-### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI)
+### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI) *(창업경진대회 본선 진행 중)*
 
 AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 
@@ -50,6 +50,7 @@ AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 * **성과**: 매물 수집·분석 시간 90% 단축
 * **특징**: 머신러닝 + GPT 기반 투자 리포트 자동 생성 (학회 수상작)
 
+<!--
 ---
 
 ### 👕 [AiWearFit.com](https://github.com/woodoyeon/AiwearFit.com)
@@ -58,6 +59,8 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 
 * **성과**: 다각도 합성 이미지 + 설명문·가격·정책 자동화
 * **특징**: 상담 챗봇 감정 분석 도입 → 고객 응대 효율화
+
+-->
 
 ---
 
