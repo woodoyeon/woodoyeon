@@ -1,3 +1,18 @@
+방법1
+## 🎥 Demo (Inline Preview)
+
+<video src="./Analytics.mp4" controls muted playsinline width="720">
+  Your browser does not support the video tag.
+</video>
+
+
+---
+
+## 🎥 Demo (Open in New Tab)
+
+[![Watch the demo](./apps/web/public/cover.png)](https://github.com/woodoyeon/AnalyticsDashboard/releases/latest/download/Analytics.mp4)
+
+
 
 ---
 
