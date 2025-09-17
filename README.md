@@ -25,7 +25,7 @@ ERP·SQL 데이터 관리 경험에서 출발해, JD인터내셔널에서 자사
 
 ## 📑 주요 프로젝트
 
-### 📊 [AI Analytics Dashboard](https://github.com/woodoyeon/AnalyticsDashboard) 📌 *개인 프로젝트 진행 중*
+### 📊 [AI Analytics Dashboard](https://github.com/woodoyeon/AnalyticsDashboard)  ![Status](https://img.shields.io/badge/Status-진행중-blue)
 
 데이터 분석 자동화 & 시각화 플랫폼
 
@@ -34,7 +34,7 @@ ERP·SQL 데이터 관리 경험에서 출발해, JD인터내셔널에서 자사
 
 ---
 
-### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI) 🏆 *창업경진대회 본선 진출*
+### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI)  ![Award](https://img.shields.io/badge/Award-본선진출-brightgreen)
 
 AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 
@@ -43,7 +43,7 @@ AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 
 ---
 
-### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2) 🥈 *아이디어 경진대회 수상*
+### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2)  ![Award](https://img.shields.io/badge/Award-수상-orange)
 
 전국 부동산 매물 수집·분석 자동화 시스템
 
