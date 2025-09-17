@@ -43,7 +43,7 @@ AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 
 ---
 
-### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2)
+### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2) *(아이디어 경진대회 수상)*
 
 전국 부동산 매물 수집·분석 자동화 시스템
 
