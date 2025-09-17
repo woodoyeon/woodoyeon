@@ -27,40 +27,32 @@ ERP·SQL 데이터 관리 경험에서 출발해, JD인터내셔널에서 자사
 
 ### 📊 [AI Analytics Dashboard](https://github.com/woodoyeon/AnalyticsDashboard)  ![Status](https://img.shields.io/badge/Status-진행중-blue)
 
-데이터 분석 자동화 & 시각화 플랫폼
+데이터 분석 자동화 & 시각화 플랫폼  
 
-* **성과**: 실시간 차트/그래프 시각화 + RAG 기반 AI 인사이트 제공
-* **특징**: 데이터 수집 → 정제 → 분석까지 통합, 이상치 탐지·패턴 분석 확장 구조
+* **성과**: 실시간 차트/그래프 시각화 + RAG 기반 AI 인사이트 제공  
+* **특징**: 데이터 수집 → 정제 → 분석까지 통합, 이상치 탐지·패턴 분석 확장 구조  
+* **역량**: #데이터분석 #프론트엔드  
 
 ---
 
 ### 🛍 [Picky.AI](https://github.com/woodoyeon/Picky.AI)  ![Award](https://img.shields.io/badge/Award-본선진출-brightgreen)
 
-AI 기반 쇼핑몰 상세페이지 자동화 SaaS
+AI 기반 쇼핑몰 상세페이지 자동화 SaaS  
 
-* **성과**: 상세페이지 제작 시간 90% 단축 (이미지·영상·정책·리뷰 자동 생성)
-* **기타**: 외부 창업경진대회 본선 진출
+* **성과**: 상세페이지 제작 시간 90% 단축 (이미지·영상·정책·리뷰 자동 생성)  
+* **기타**: 외부 창업경진대회 본선 진출  
+* **역량**: #PM #풀스택  
 
 ---
 
 ### 🏠 [ZipPick.AI](https://github.com/woodoyeon/ZipPick_ver2)  ![Award](https://img.shields.io/badge/Award-수상-orange)
 
-전국 부동산 매물 수집·분석 자동화 시스템
+전국 부동산 매물 수집·분석 자동화 시스템  
 
-* **성과**: 매물 수집·분석 시간 90% 단축
-* **특징**: 머신러닝 + GPT 기반 투자 리포트 자동 생성 (학회 수상작)
+* **성과**: 매물 수집·분석 시간 90% 단축  
+* **특징**: 머신러닝 + GPT 기반 투자 리포트 자동 생성 (학회 수상작)  
+* **역량**: #머신러닝 #웹크롤링 #데이터라벨링  
 
-<!--
----
-
-### 👕 [AiWearFit.com](https://github.com/woodoyeon/AiwearFit.com)
-
-AI 기반 의상 합성·상세페이지 자동화 플랫폼
-
-* **성과**: 다각도 합성 이미지 + 설명문·가격·정책 자동화
-* **특징**: 상담 챗봇 감정 분석 도입 → 고객 응대 효율화
-
--->
 
 ---
 
