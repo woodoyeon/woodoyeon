@@ -25,7 +25,7 @@ ERP·SQL 데이터 관리 경험에서 출발해, JD인터내셔널에서 자사
 
 ## 📑 주요 프로젝트
 
-### 📊 [AI Analytics Dashboard](https://github.com/woodoyeon/) *(진행 중)*
+### 📊 [AI Analytics Dashboard](https://github.com/woodoyeon/AnalyticsDashboard) *(진행 중)*
 
 데이터 분석 자동화 & 시각화 플랫폼
 
