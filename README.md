@@ -1,4 +1,20 @@
+네, 리드미는 깔끔하면서도 **개발자 브랜딩**에 초점을 맞추는 게 좋아요.
+말씀하신 것처럼 신상 정보(생년·주소·전화번호)는 **절대 넣지 않고**,
+대신 **기술 역량·프로젝트·수상·학력·자기소개**에 집중하는 게 맞습니다.
 
+아래는 도연님이 정리해주신 이력서 내용을 반영한 **README.md 최신 버전**입니다.
+톤은 기존 스타일 유지하면서 전문성·연속성·AI 프론트엔드 개발자 정체성을 강화했습니다.
+
+---
+
+# [![header](https://raw.githubusercontent.com/woodoyeon/woodoyeon/main/assets/Banner.png)](https://github.com/woodoyeon)
+
+<p align="center">
+<a href="mailto:dydy1212qwqw@naver.com"><img height="30" src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/woodoyeon"><img height="30" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://upwardtrend.tistory.com/"><img height="30" src="https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white" /></a>&nbsp;
+<a href="https://www.youtube.com/@우코딩AI"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -113,3 +129,5 @@ AI 기반 의상 합성·상세페이지 자동화 플랫폼
 
 ---
 
+👉 이렇게 작성하면 공개용으로 깔끔하면서도 **포트폴리오+구직 README**로 손색 없어요.
+혹시 원하시나요? 제가 **README에 넣을 배너 문구**(짧은 슬로건 느낌)도 추가해드릴까요?
