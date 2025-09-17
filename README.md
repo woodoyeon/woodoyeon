@@ -107,12 +107,10 @@ AI 기반 쇼핑몰 상세페이지 자동화 SaaS
 ## 📫 Contact
 
 * 📧 **Email**: [dydy1212qwqw@naver.com](mailto:dydy1212qwqw@naver.com)
-* 🌐 **Blog**: [upwardtrend.tistory.com](https://upwardtrend.tistory.com/)
-* 🎥 **YouTube**: [우코딩AI](https://www.youtube.com/@%EC%9A%B0%EC%BD%94%EB%94%A9AI)
 * 💼 **GitHub**: [github.com/woodoyeon](https://github.com/woodoyeon)
 
 ---
 
-📌 **현재 AI 기반 프론트엔드 개발 직무를 목표로 구직 중입니다.**
+📌 **현재 AI 기반 풀스택 개발 직무를 목표로 구직 중입니다.**
 
 
